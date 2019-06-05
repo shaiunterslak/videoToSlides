@@ -1,3 +1,5 @@
+Takes in an mp4 file (such as a screen recording of a slide show presentation) and saves all unique frames to a new directory. 
+
 To run from command line where video name is "example.mp4" :
 
 python vidToSlides.py example.mp4
